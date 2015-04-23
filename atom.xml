@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[博学宝]]></title>
-  <subtitle><![CDATA[博学宝电子书包]]></subtitle>
-  <link href="/bo/atom.xml" rel="self"/>
-  <link href="http://hackxy.github.io/bo/"/>
-  <updated>2015-04-23T14:29:26.342Z</updated>
-  <id>http://hackxy.github.io/bo/</id>
+  <title><![CDATA[值得买]]></title>
+  <subtitle><![CDATA[优质产品推荐]]></subtitle>
+  <link href="/buy/atom.xml" rel="self"/>
+  <link href="http://hackxy.github.io/buy/"/>
+  <updated>2015-04-23T15:23:00.355Z</updated>
+  <id>http://hackxy.github.io/buy/</id>
   
   <author>
     <name><![CDATA[Hackxy]]></name>
@@ -15,9 +15,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Images]]></title>
+    <link href="http://hackxy.github.io/buy/2015/04/23/images/"/>
+    <id>http://hackxy.github.io/buy/2015/04/23/images/</id>
+    <published>2015-04-23T15:23:00.355Z</published>
+    <updated>2015-04-23T15:23:00.355Z</updated>
+    <content type="html"><![CDATA[<p>This is a image test post.</p>
+<p><img src="http://www.curvexpo.com/wp-content/uploads/2013/10/AddictionDouceur-Trapeze-Top-and-Legging-300x450.jpg" alt=""></p>
+<p><img src="http://wuchong.me/jacman/images/wallpaper-2311325.jpg" alt="Caption"></p>
+<p><img src="http://ppoffice.github.io/hexo-theme-hueman/gallery/salt-lake.jpg" alt=""></p>
+<p><img src="http://placehold.it/350x150.jpg" alt="Small Picture"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is a image test post.</p>
+<p><img src="http://www.curvexpo.com/wp-content/uploads/2013/10/AddictionDouceur-Trapeze-Top-and-Legging-3]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Questions and Answers（中文）]]></title>
-    <link href="http://hackxy.github.io/bo/2015/04/23/qna-cn/"/>
-    <id>http://hackxy.github.io/bo/2015/04/23/qna-cn/</id>
+    <link href="http://hackxy.github.io/buy/2015/04/23/qna-cn/"/>
+    <id>http://hackxy.github.io/buy/2015/04/23/qna-cn/</id>
     <published>2015-04-23T14:29:40.123Z</published>
     <updated>2015-04-23T14:29:26.342Z</updated>
     <content type="html"><![CDATA[<span class="label label-danger">Q</span> <code>Freemind</code> 这名字有何含义？<br><br><span class="label label-success">A</span> <code>Freemind</code> 命名出自 <a href="http://freemind.pluskid.org/" target="_blank" rel="external">Pluskid</a> 的博客。这个主题很大程度借鉴了他的博客的布局和样式。<br><br><span class="label label-danger">Q</span> 现在都有这么多 Hexo 的主题了，为啥又要写一个？<br><br><span class="label label-success">A</span> 实际上我这个主题在我使用 Hexo 前已经创建了。我在半年前将博客迁移到 Hexo ，因为我已经习惯了原来的主题，所以顺便把主题也移植了过来。<br><br><a id="more"></a>
@@ -45,36 +64,16 @@
     
     </summary>
     
-      <category term="测试" scheme="http://hackxy.github.io/bo/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://hackxy.github.io/buy/tags/%E6%B5%8B%E8%AF%95/"/>
     
-      <category term="测试" scheme="http://hackxy.github.io/bo/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Images]]></title>
-    <link href="http://hackxy.github.io/bo/2015/04/23/images/"/>
-    <id>http://hackxy.github.io/bo/2015/04/23/images/</id>
-    <published>2015-04-23T12:54:34.552Z</published>
-    <updated>2015-04-23T12:54:34.552Z</updated>
-    <content type="html"><![CDATA[<p>This is a image test post.</p>
-<p><img src="http://wuchong.me/jacman/images/wallpaper-2572384.jpg" alt=""></p>
-<p><img src="http://wuchong.me/jacman/images/wallpaper-2311325.jpg" alt="Caption"></p>
-<p><img src="http://ppoffice.github.io/hexo-theme-hueman/gallery/salt-lake.jpg" alt=""></p>
-<p><img src="http://placehold.it/350x150.jpg" alt="Small Picture"></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>This is a image test post.</p>
-<p><img src="http://wuchong.me/jacman/images/wallpaper-2572384.jpg" alt=""></p>
-<p><img src="http://wuchon]]>
-    </summary>
+      <category term="测试" scheme="http://hackxy.github.io/buy/categories/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Tag Plugins（中文）]]></title>
-    <link href="http://hackxy.github.io/bo/2015/04/23/tag-plugins-cn/"/>
-    <id>http://hackxy.github.io/bo/2015/04/23/tag-plugins-cn/</id>
+    <link href="http://hackxy.github.io/buy/2015/04/23/tag-plugins-cn/"/>
+    <id>http://hackxy.github.io/buy/2015/04/23/tag-plugins-cn/</id>
     <published>2015-04-23T12:46:40.247Z</published>
     <updated>2015-04-23T12:46:40.247Z</updated>
     <content type="html"><![CDATA[<p>Freemind 主题提供了丰富的 tag plugins，以充分利用 Bootstrap 的威力。</p>
@@ -131,9 +130,9 @@
     
     </summary>
     
-      <category term="plugins" scheme="http://hackxy.github.io/bo/tags/plugins/"/>
+      <category term="plugins" scheme="http://hackxy.github.io/buy/tags/plugins/"/>
     
-      <category term="Docs" scheme="http://hackxy.github.io/bo/categories/Docs/"/>
+      <category term="Docs" scheme="http://hackxy.github.io/buy/categories/Docs/"/>
     
   </entry>
   
