@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hackxy.github.io/buy/2015/04/23/images/</loc>
+    <lastmod>2015-04-23T12:54:34.552Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hackxy.github.io/buy/2015/04/23/tag-plugins-cn/</loc>
+    <lastmod>2015-04-23T12:46:40.247Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hackxy.github.io/buy/2015/04/23/qna-cn/</loc>
+    <lastmod>2015-04-23T12:46:31.862Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hackxy.github.io/buy/categories/index.html</loc>
     <lastmod>2015-04-22T16:04:15.210Z</lastmod>
   </url>
@@ -12,23 +27,8 @@
   </url>
   
   <url>
-    <loc>http://hackxy.github.io/buy/2015/04/22/Elements/</loc>
-    <lastmod>2015-04-22T15:57:58.404Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hackxy.github.io/buy/2015/04/22/how-to-use/</loc>
-    <lastmod>2015-04-22T14:51:56.539Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hackxy.github.io/buy/about/index.html</loc>
     <lastmod>2015-04-22T12:38:16.360Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hackxy.github.io/buy/2015/04/12/hello-world/</loc>
-    <lastmod>2015-04-12T10:45:04.866Z</lastmod>
   </url>
   
 </urlset>
