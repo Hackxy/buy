@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Veolus]]></title>
   <subtitle><![CDATA[优质产品网购推荐]]></subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/buy/atom.xml" rel="self"/>
   <link href="http://hackxy.github.io/buy/"/>
   <updated>2015-04-23T12:54:34.552Z</updated>
   <id>http://hackxy.github.io/buy/</id>
